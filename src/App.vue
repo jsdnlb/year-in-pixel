@@ -30,7 +30,7 @@ export default {
 </script>
 
 <style lang="scss">
-body {
+/* body {
   background: #2c3e50;
   color: #ffffff;
 }
@@ -39,5 +39,5 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-}
+} */
 </style>
