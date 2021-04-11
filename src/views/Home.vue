@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Home {{ name }}</h1>
+    <h1>Home, poco más {{ name }}</h1>
     <router-link to="/about">About</router-link>
     <br />
     <button class="logout" @click="Logout">Logout</button>

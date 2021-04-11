@@ -4,5 +4,5 @@ export const firebaseConfig = {
   projectId: "pixel-in-year",
   storageBucket: "pixel-in-year.appspot.com",
   messagingSenderId: "624026918790",
-  appId: "1:624026918790:web:c9d41f751a0e1d733c1607",
+  appId: "1:624026918790:web:80ff84f67c3b7d013c1607"
 };
